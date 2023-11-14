@@ -32,13 +32,13 @@ export function Checkout() {
   const [finalValue, setFinalValue] = useState(0);
   const [finalQuantity, setFfinalQuantity] = useState(0);
 
-  const [cep, setCep] = useState("067-53200");
-  const [rua, setRua] = useState("Rua Maria Simão Silva");
-  const [numero, setNumero] = useState("127");
-  const [complemento, setComplemento] = useState("Minha Casa");
-  const [bairro, setBairro] = useState("Jd Kuabara");
-  const [cidade, setCidade] = useState("Taboão da Serra");
-  const [estado, setEstado] = useState("SP");
+  const [cep, setCep] = useState("");
+  const [rua, setRua] = useState("");
+  const [numero, setNumero] = useState("");
+  const [complemento, setComplemento] = useState("");
+  const [bairro, setBairro] = useState("");
+  const [cidade, setCidade] = useState("");
+  const [estado, setEstado] = useState("");
   const [pagamento, setPagamento] = useState("");
 
   const navigate = useNavigate();
