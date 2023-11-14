@@ -26,9 +26,10 @@ Apesar de serem poucas funcionalidades, precisei relembrar conceitos como:
 
 ## Screenshots
 
-![image](https://github.com/DouglasPortoo/Coffe-Delivery-2.0/assets/129231898/091bda4a-c6f1-43cb-9ef0-e40c4f678ce7)
-![image](https://github.com/DouglasPortoo/Coffe-Delivery-2.0/assets/129231898/2e854d3b-58d9-41e9-960e-04ea824c9f81)
-![image](https://github.com/DouglasPortoo/Coffe-Delivery-2.0/assets/129231898/4c44feaf-dd61-49e6-8de2-76a764179640)
+![image](https://github.com/DouglasPortoo/Coffe-Delivery-2.0/assets/129231898/f091c686-5d39-4b1f-80ef-52d51cb9f2b3)
+![image](https://github.com/DouglasPortoo/Coffe-Delivery-2.0/assets/129231898/715acb39-ef6a-4846-a173-be6f8936565b)
+
+
 
 ## Tecnologias
 
